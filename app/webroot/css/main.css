@@ -1,0 +1,85 @@
+
+@font-face {
+	font-family: 'zantroke';
+	src: url('fonts/zantroke/Zantroke.eot');
+	src: local('☺2'), url('fonts/zantroke/Zantroke.woff') format('woff'), url('fonts/zantroke/Zantroke.ttf') format('truetype'), url('fonts/zantroke/Zantroke.svg') format('svg');
+}
+
+a{
+	color:#995c00
+}
+
+a:hover{
+	color:#804d00;
+	cursor:pointer;
+}
+
+body{
+	background-color:#e6ffe6;
+}
+
+h2{
+	color:black;
+	font-family:zantroke;
+	text-align:center;
+}
+
+label{
+	font-family:zantroke;
+}
+
+.btn-success{
+	background-color:#669900;
+	border:2px solid #006600;
+}
+
+.btn-success:hover{
+	background-color:#446600;
+}
+
+.btn-topnav{
+	border:1px solid black;
+	background-color:#cc9900;
+	font-family:zantroke;
+}
+
+.btn-topnav:hover{
+	background-color:#b38600;
+	border:1px solid black;
+}
+
+.guidelink {
+	font-family:zantroke;
+}
+
+.panel-body{
+	background-color:#ffebcc;
+	font-size:16px;
+}
+
+.panel-default{
+	border:1px solid black;
+	font-family:zantroke;
+	font-size:12px;
+}
+
+.panel-heading{
+	border-top:1px solid black;
+	border-bottom:1px solid black
+}
+
+.page-comment{
+	color:grey;
+	font-size:10px;
+}
+
+#body-well {
+	background-color:#88cc00;
+	border:1px solid #009900;
+	border-radius: 5px;
+	margin:15px;
+}
+
+#content {
+	font-family:verdana, arial, helvetica, sans-serif;
+}
